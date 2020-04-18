@@ -8,11 +8,11 @@
 
 **Пример 1:**
 
-[!Example-Image-1](image-1.png)
+![Example-Image-1](image-1.png)
 
 **Пример 2:**
 
-[!Example-Image-2](image-2.png)
+![Example-Image-2](image-2.png)
 
 **Input Format**
 
