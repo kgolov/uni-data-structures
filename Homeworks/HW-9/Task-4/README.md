@@ -1,5 +1,7 @@
 # Задача 4. Kruskal (MST): Really Special Subtree
 
+[Тествайте тук](https://www.hackerrank.com/contests/practice-9-sda/challenges/kruskalmstrsub)
+
 Given an undirected weighted connected graph, find the Really Special SubTree in it. The Really Special SubTree is defined as a subgraph consisting of all the nodes in the graph and:
 
 * There is only one exclusive path from a node to every other node.

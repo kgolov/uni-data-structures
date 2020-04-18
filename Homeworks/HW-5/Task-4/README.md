@@ -1,5 +1,7 @@
 # Задача 4. Bonus: Min-Max-Intervals
 
+[Тествайте тук](https://www.hackerrank.com/contests/practice-5-sda/challenges/min-max-intervals)
+
 Даден ви е масив с N цели положителни числа: A[0], A[1], ..., A[N - 1] и цялото число K. Min-Max интервал ще наричаме последователност от елементи на масива, такава че разликата между минималния и максималния измежду тях е най-много K. По-формално казано:
 
 Min-Max-Intervals = { s = A[i], A[i + 1], ..., A[j] | 0 <= i <= j < N & max(s) - min(s) <= K }

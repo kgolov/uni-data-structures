@@ -1,5 +1,7 @@
 # Задача 3. Merge two sorted linked lists
 
+[Тествайте тук](https://www.hackerrank.com/contests/practice-4-sda/challenges/merge-two-sorted-linked-lists)
+
 You’re given the pointer to the head nodes of two sorted linked lists. The data in both lists will be sorted in ascending order. Change the next pointers to obtain a single, merged linked list which also has data in ascending order. Either head pointer given may be null meaning that the corresponding list is empty.
 
 **Input Format**
