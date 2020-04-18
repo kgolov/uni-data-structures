@@ -15,8 +15,18 @@
 9. [Домашна работа 9](Homeworks/HW-9/README.md)
 
 ### Контролни работи
-*За тестване на контролните работи, може да посетите hackerrank.com/contests/sda-2019-2020-testX, където X е номерът на контролната работа.*
 
 1. [Контролна работа 1](Tests/Test-1/README.md)
+2. [Контролна рабтоа 2](Tests/Test-2/README.md)
 3. [Контролна работа 3](Tests/Test-3/README.md)
 4. [Контролна работа 4](Tests/Test-4/README.md)
+6. [Контролна работа 6](Tests/Test-6/README.md)
+
+### Изпит
+За тестване, можете да посетите страницата: [тук](https://www.hackerrank.com/contests/sda-2019-2020-exam-2e3nr4rr/challenges)
+
+1. [Задача 1](Exam/Task-1/README.md)
+2. [Задача 2](Exam/Task-2/README.md)
+3. [Задача 3](Exam/Task-3/README.md)
+4. [Задача 4](Exam/Task-4/README.md)
+5. [Задача 5](Exam/Task-5/README.md)
